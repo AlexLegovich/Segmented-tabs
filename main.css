@@ -44,8 +44,13 @@ body{
   border-radius: 999px;
   color: #6b6b6b;
   font-weight: 500;
-
 }
+
+.btn:hover{
+  color: #120b38;
+}
+
+
 
 .slider{
   position: absolute;
